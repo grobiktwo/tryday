@@ -30,19 +30,35 @@
 #print("результатище", num1 * num2)
 #print("результатище", num1 / num2)
 
-num11 = "да ты прав"
-num22 = 3+3*9
+#num11 = "да ты прав"
+#num22 = 3+3*9
 
-input("когда я был на воле?")
+#input("когда я был на воле?")
 
-print("да прибудет с тобой бог")
+#print("да прибудет с тобой бог")
 
-print("дед оба дед",  33, end="\n")
-input1 = input("был ты кк то на воле да и закончилось твое путишествие")
+#print("дед оба дед",  33, end="\n")
+#input1 = input("был ты кк то на воле да и закончилось твое путишествие")
 
-print(num11 + " " + str(num22))
+#print(num11 + " " + str(num22))
 
+#user = int(input("10+15="))
 
+#if user > 25:
+   #print("ты на близко")
+#if user != 25:
+  #print("bibaboba")
+  #user = int(input("10+15"))
+  #if user != 25:
+     #print("da tu dayn chel")
+#if user == 25:
+  #print("krasavec")
+
+w = True
+if w:
+ print("поздравляю")
+else:
+ print("не поздравляю")
 
 
 
